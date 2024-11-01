@@ -1,0 +1,59 @@
+.frontend div{
+	border-top: 1px solid #e5e5e5;
+	margin-top: 2%;
+  padding-top: 2%;
+}
+
+div.frontend > div:first-child{
+	border-top: 0;
+}
+
+#votadiv{
+	border-top: 0;
+	text-align: center;
+}
+
+#vota{
+	height: 40px;
+	width: 100px;
+	padding-bottom: 3px;
+	border-radius: 8px;
+}
+
+legend{
+  border-width: 0 !important;
+	margin-bottom: 5px !important;
+	font-size: 21px !important;
+}
+
+
+.alert {
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+.alert-info {
+  color: #31708f;
+  background-color: #d9edf7;
+  border-color: #bce8f1;
+}
+
+.alert-warning {
+  color: #8a6d3b;
+  background-color: #fcf8e3;
+  border-color: #faebcc;
+}
+
+.alert-success {
+  color: #3c763d;
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+}
+
+.alert-danger {
+  color: #a94442;
+  background-color: #f2dede;
+  border-color: #ebccd1;
+}

@@ -1,0 +1,457 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-07-29 12:06+0200\n"
+"PO-Revision-Date: 2016-07-29 12:09+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: inc\n"
+"X-Poedit-SearchPath-2: js\n"
+"X-Poedit-SearchPath-3: images\n"
+"X-Poedit-SearchPathExcluded-0: wp-polls\n"
+"X-Poedit-SearchPathExcluded-1: awesome-surveys\n"
+
+#: inc/ajax_front.php:59 inc/ajax_front.php:63 inc/ajax_front.php:74
+#: inc/ajax_front.php:78 inc/ajax_front.php:90 inc/ajax_front.php:94
+#: inc/ajax_front.php:107
+#, php-format
+msgid "Error In Adding Votes '%s'."
+msgstr "Errore durante il salvataggio dei voti '%s'"
+
+#: inc/ajax_front.php:111 inc/ajax_front.php:115
+#, php-format
+msgid "Error In Adding Text Votes '%s'."
+msgstr "Errore nel salvataggio dei voti in formato testo '%s'"
+
+#: inc/ajax_front.php:122
+msgid "Thank you for your Votes!"
+msgstr "Grazie per aver votato!"
+
+#: inc/ajax_function.php:39 inc/ajax_function.php:390
+#, php-format
+msgid "Error In Adding Survey Question '%s'."
+msgstr "Errone nell'aggiunta della domanda '%s'."
+
+#: inc/ajax_function.php:41 inc/ajax_function.php:392
+#, php-format
+msgid "Success In Adding Survey Question '%s'."
+msgstr "Domanda '%s' aggiunta con successo."
+
+#: inc/ajax_function.php:63 inc/ajax_function.php:414
+#, php-format
+msgid "Error In Adding Survey '%s'."
+msgstr "Errore nell'aggiunta del sondaggio '%s'."
+
+#: inc/ajax_function.php:65 inc/ajax_function.php:416
+#, php-format
+msgid "Success In Adding Survey '%s'."
+msgstr "Sondaggio '%s' aggiunto con successo"
+
+#: inc/ajax_function.php:68 inc/ajax_function.php:419
+msgid "You can not place an untitled survey"
+msgstr "Non è possibile salvare un sondaggio senza titolo"
+
+#: inc/ajax_function.php:120 inc/ajax_function.php:125
+#, php-format
+msgid "Error In Deleting Question '%s'."
+msgstr "Errore durante l'elimanzione della domanda '%s'"
+
+#: inc/ajax_function.php:127
+#, php-format
+msgid "Success In Deleting Question '%s'."
+msgstr "Eliminazione della domanda '%s' avvenuta con successo"
+
+#: inc/ajax_function.php:141
+#, php-format
+msgid "Error In Editing Sounding Question '%s'."
+msgstr "Errore nella modifica della domanda '%s'"
+
+#: inc/ajax_function.php:143
+#, php-format
+msgid "Success In Editing Sounding Question '%s'."
+msgstr "Modifica della domanda '%s' avvenuta con successo"
+
+#: inc/ajax_function.php:169
+#, php-format
+msgid "Error In Deleting Survey '%s'."
+msgstr "Errore nella cancellazione del sondaggio '%s'"
+
+#: inc/ajax_function.php:171
+#, php-format
+msgid "Success In Deleting Survey '%s'."
+msgstr "Sondaggio '%s'  cancellato con successo"
+
+#: inc/ajax_function.php:174
+#, php-format
+msgid "Impossible Deleting Survey '%s'."
+msgstr "Impossibile eliminare il sondaggio '%s'"
+
+#: inc/ajax_function.php:188
+#, php-format
+msgid "Error In Editing Survey '%s'."
+msgstr "Errore nella modifica del sondaggio '%s'"
+
+#: inc/ajax_function.php:190
+#, php-format
+msgid "Success In Editing Survey '%s'."
+msgstr "Sondaggio '%s' modificato con successo"
+
+#: inc/ajax_function.php:203
+#, php-format
+msgid "Error In Deleting Answer '%s'."
+msgstr "Errore nell'eliminazione della risposta '%s'"
+
+#: inc/ajax_function.php:207
+#, php-format
+msgid "Success In Deleting Answer '%s'."
+msgstr "Eliminazione della risposta '%s' avvenuta con successo"
+
+#: inc/ajax_function.php:239 inc/ajax_function.php:244
+#: inc/ajax_function.php:249
+#, php-format
+msgid "Error In Deleting Sounding '%s'."
+msgstr "Errore nell'eliminazione del sondaggio '%s'"
+
+#: inc/ajax_function.php:251
+#, php-format
+msgid "Success In Deleting Sounding '%s'."
+msgstr "Eliminazione del sondaggio '%s' avvenuta con successo"
+
+#: inc/ajax_function.php:266
+msgid "Title Sounding"
+msgstr "Titolo Sondaggio"
+
+#: inc/ajax_function.php:279 wordsurvey-manager.php:22
+#: wordsurvey-manager.php:46
+msgid "Edit Survey"
+msgstr "Modifica Sondaggio"
+
+#: inc/ajax_function.php:280 wordsurvey-manager.php:47
+msgid "Delete Survey"
+msgstr "Elimina Sondaggio"
+
+#: inc/ajax_function.php:294 inc/ajax_function.php:301 wordsurvey-add.php:68
+#: wordsurvey-add.php:75 wordsurvey-manager.php:71
+msgid "Question"
+msgstr "Domanda"
+
+#: inc/ajax_function.php:305 wordsurvey-add.php:79 wordsurvey-manager.php:75
+msgid "Type"
+msgstr "Tipologia"
+
+#: inc/ajax_function.php:307 wordsurvey-add.php:81 wordsurvey-manager.php:77
+msgid "select..."
+msgstr "seleziona..."
+
+#: inc/ajax_function.php:308 wordsurvey-add.php:82 wordsurvey-manager.php:78
+msgid "text"
+msgstr "testo"
+
+#: inc/ajax_function.php:309 wordsurvey-add.php:83 wordsurvey-manager.php:79
+msgid "radio"
+msgstr "radio"
+
+#: inc/ajax_function.php:310 wordsurvey-add.php:84 wordsurvey-manager.php:80
+msgid "selection"
+msgstr "selezione"
+
+#: inc/ajax_function.php:311 wordsurvey-add.php:85 wordsurvey-manager.php:81
+msgid "checkbox"
+msgstr "checkbox"
+
+#: inc/ajax_function.php:315 wordsurvey-add.php:89 wordsurvey-manager.php:85
+msgid "Obligatory question"
+msgstr "Domanda Obbligatoria"
+
+#: inc/ajax_function.php:319 wordsurvey-add.php:93 wordsurvey-manager.php:89
+msgid "Number of replies"
+msgstr "Numero di risposte"
+
+#: inc/ajax_function.php:329 wordsurvey-add.php:97
+msgid "Reply n. 1"
+msgstr "Rsiposta n. 1"
+
+#: inc/ajax_function.php:339 wordsurvey-add.php:105 wordsurvey-manager.php:127
+msgid "Add Question"
+msgstr "Aggiungi Domanda"
+
+#: inc/frontendsurvey.php:98
+msgid "The survey is closed."
+msgstr "Il sondaggio è chiuso."
+
+#: inc/soundingstats.php:8
+msgid "Stats Survey"
+msgstr "Statistiche Sondaggio"
+
+#: inc/soundingstats.php:8
+msgid "Documentazione"
+msgstr "Documentation"
+
+#: inc/soundingstats.php:17
+msgid ""
+"For exports to CSV and XLS <a href=\"http://www.sersis.com/wordsurvey/\" "
+"target=\"_blank\">BUY THE PRO VERSION</a>."
+msgstr ""
+"Per esportare in CSV e XLS <a href=\"http://www.sersis.com/wordsurvey/\" "
+"target=\"_blank\">COMPRA LA VERSIONE PRO</a>."
+
+#: wordsurvey-add.php:24 wordsurvey-manager.php:18
+msgid ""
+"This is the date of term survey, after which it is no longer active. It is "
+"not mandatory."
+msgstr ""
+"Questa è la data di termine sondaggio, dopo la quale non sarà più attivo. "
+"Non è obbligatoria."
+
+#: wordsurvey-add.php:25
+msgid ""
+"Click the button to save title and date and start to insert the question"
+msgstr ""
+"Cliccare questo pulsante per salvare il titolo e la data ed iniziare ad "
+"inserire le domande."
+
+#: wordsurvey-add.php:26
+msgid "Click this button after you compile the question to save it."
+msgstr "Cliccare questo pulsante dopo aver compilato la domanda per salvarla."
+
+#: wordsurvey-add.php:33 wordsurvey-add.php:40 wp-wordsurvey.php:36
+msgid "Add Survey"
+msgstr "Aggiungi Sondaggio"
+
+#: wordsurvey-add.php:34
+msgid ""
+"You can not put more than one survey. <a href=\"http://www.sersis.com/"
+"wordsurvey/\" target=\"_blank\">BUY THE PRO VERSION<a>."
+msgstr ""
+"Non puoi inserire più di un sondaggio. <a href=\"http://www.sersis.com/"
+"wordsurvey/\" target=\"_blank\">COMPRA LA VERSIONE PRO<a>."
+
+#: wordsurvey-add.php:40
+msgid "Add New"
+msgstr "Aggiungi Nuovo"
+
+#: wordsurvey-add.php:45 wordsurvey-manager.php:32
+msgid "Title Survey"
+msgstr "Titolo Sondaggio"
+
+#: wordsurvey-add.php:49 wordsurvey-manager.php:36 wordsurvey-manager.php:156
+msgid "Expire Date"
+msgstr "Data Scadenza"
+
+#: wordsurvey-add.php:59
+msgid "Create Survey"
+msgstr "Crea Sondaggio"
+
+#: wordsurvey-add.php:98 wordsurvey-manager.php:115
+msgid "Add Answer"
+msgstr "Aggiungi Risposta"
+
+#: wordsurvey-add.php:101
+msgid "Save Question"
+msgstr "Salva Domanda"
+
+#: wordsurvey-add.php:108
+msgid "Preview"
+msgstr "Anteprima"
+
+#: wordsurvey-manager.php:19
+msgid ""
+"After filling in the answer, remember to click the button \"Edit Question\" "
+"to save it."
+msgstr ""
+"Dopo aver compilato la risposta ricordare di cliccare il pulsante 'Modifica "
+"Domanda' per salvarla."
+
+#: wordsurvey-manager.php:104
+msgid "Reply"
+msgstr "Risposta"
+
+#: wordsurvey-manager.php:109
+msgid "Reply n. "
+msgstr "Risposta n. "
+
+#: wordsurvey-manager.php:118
+msgid "Edit Question"
+msgstr "Modifica Domanda"
+
+#: wordsurvey-manager.php:119
+msgid "Delete Question"
+msgstr "Elimina Domanda"
+
+#: wordsurvey-manager.php:152
+msgid "Manage Survey"
+msgstr "Gestisci Sondaggio"
+
+#: wordsurvey-manager.php:156
+msgid "Survey"
+msgstr "Sondaggio"
+
+#: wordsurvey-manager.php:156
+msgid "Status"
+msgstr "Stato"
+
+#: wordsurvey-manager.php:156
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: wordsurvey-manager.php:156
+msgid "Action"
+msgstr "Azioni"
+
+#: wordsurvey-manager.php:176
+msgid "Close"
+msgstr "Chiuso"
+
+#: wordsurvey-manager.php:178
+msgid "Open"
+msgstr "Aperto"
+
+#: wp-wordsurvey.php:35
+msgid "WordSurvey"
+msgstr "WordSurvey"
+
+#: wp-wordsurvey.php:52
+msgid "Aggiungi Risposta"
+msgstr "Aggiungi Risposta"
+
+#: wp-wordsurvey.php:53
+msgid "Domanda"
+msgstr "Domanda"
+
+#: wp-wordsurvey.php:54
+msgid "Salva Domanda"
+msgstr "Salva Domanda"
+
+#: wp-wordsurvey.php:55
+msgid "Tipologia"
+msgstr "Tipologia"
+
+#: wp-wordsurvey.php:56
+msgid "Domanda Obbligatoria"
+msgstr "Domanda Obbligatoria"
+
+#: wp-wordsurvey.php:57
+msgid "testo"
+msgstr "testo"
+
+#: wp-wordsurvey.php:58
+msgid "seleziona..."
+msgstr "seleziona..."
+
+#: wp-wordsurvey.php:59
+msgid "selezione"
+msgstr "selezione"
+
+#: wp-wordsurvey.php:60
+msgid "Risposta"
+msgstr "Risposta"
+
+#: wp-wordsurvey.php:61
+msgid "Risposta n. 1"
+msgstr "Risposta n. 1"
+
+#: wp-wordsurvey.php:62
+msgid "Numero di risposte"
+msgstr "Numero di risposte"
+
+#: wp-wordsurvey.php:63
+msgid "Modifica Sondaggio"
+msgstr "Modifica Sondaggio"
+
+#: wp-wordsurvey.php:64
+msgid "Elimina Sondaggio"
+msgstr "Elimina Sondaggio"
+
+#: wp-wordsurvey.php:65
+msgid "Modifica Domanda"
+msgstr "Modifica Domanda"
+
+#: wp-wordsurvey.php:66
+msgid "Elimina Domanda"
+msgstr "Elimina Domanda"
+
+#: wp-wordsurvey.php:67
+msgid "Crea Sondaggio"
+msgstr "Crea Sondaggio"
+
+#: wp-wordsurvey.php:128
+msgid "Enter ID"
+msgstr "Inserire ID"
+
+#: wp-wordsurvey.php:129
+msgid "Error: ID must be numeric"
+msgstr "Errore: L'ID deve essere numerico"
+
+#: wp-wordsurvey.php:130
+msgid "Please enter ID again"
+msgstr "Inserire nuovamente l'ID"
+
+#: wp-wordsurvey.php:131
+msgid "Insert Survey"
+msgstr "Inserire Sondaggio"
+
+#~ msgid "Stats"
+#~ msgstr "Statistiche"
+
+#~ msgid "Edit"
+#~ msgstr "Modifica"
+
+#~ msgid "Delete"
+#~ msgstr "Elimina"
+
+#~ msgid "Impossible Deleting Sounding '%s'."
+#~ msgstr "Impossibile eliminare il sondaggio '%s'"
+
+#~ msgid "Error In Editing Sounding '%s'."
+#~ msgstr "Errore nella modifica del sondaggio '%s'"
+
+#~ msgid "Success In Editing Sounding '%s'."
+#~ msgstr "Modifica del sondaggio '%s' avvenuta con successo"
+
+#~ msgid "Error In Adding Sounding Question '%s'."
+#~ msgstr "Errore nell'aggiunta della domanda '%s'"
+
+#~ msgid "Success In Adding Sounding Question '%s'."
+#~ msgstr "Aaggiunta della domanda '%s' avvenuta con successo"
+
+#~ msgid "Error In Adding Sounding '%s'."
+#~ msgstr "Errore nell'aggiunta del sondaggio '%s'"
+
+#~ msgid "Success In Adding Sounding '%s'."
+#~ msgstr "Aggiunta del sondaggio '%s' avvenuta con successo"
+
+#~ msgid "Stats Sounding"
+#~ msgstr "Statistiche Sondaggio"
+
+#~ msgid "Add Sounding"
+#~ msgstr "Aggiungi Sondaggio"
+
+#~ msgid "Create Sounding"
+#~ msgstr "Crea Sondaggio"
+
+#~ msgid "Edit Sounding"
+#~ msgstr "Modifica Sondaggio"
+
+#~ msgid "Delete Sounding"
+#~ msgstr "Elimina Sondaggio"
+
+#~ msgid "Manage Sounding"
+#~ msgstr "Modifica Sondaggio"
+
+#~ msgid "Sounding"
+#~ msgstr "Sondaggio"
+
+#~ msgid "Sounding Options"
+#~ msgstr "Opzioni Sondaggio"
+
+#~ msgid "Sounding Templates"
+#~ msgstr "Template Sondaggio"
